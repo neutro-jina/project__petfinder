@@ -1,0 +1,5 @@
+Where can you download the petfinder dataset?
+
+you can use the kaggle API to download the dataset.
+"kaggle competitions download -c petfinder-pawpularity-score"
+
